@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FakeBSOD", "FakeBSOD\FakeBSOD.csproj", "{0918AAB6-3847-4DBC-8540-715C3CDCB54A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0918AAB6-3847-4DBC-8540-715C3CDCB54A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0918AAB6-3847-4DBC-8540-715C3CDCB54A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0918AAB6-3847-4DBC-8540-715C3CDCB54A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0918AAB6-3847-4DBC-8540-715C3CDCB54A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F103D96-551E-4EF5-8EC5-00D93472A722}
+	EndGlobalSection
+EndGlobal
