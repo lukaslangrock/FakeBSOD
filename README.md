@@ -5,5 +5,5 @@ However, you can access the Windows Security Menu by pressing Ctrl+Alt+Del becau
 
 The blue screen will look something like this:
 <p align="center">
-  <img alt="Screenshot of the blue screen" src="https://raw.githubusercontent.com/Lukas34/FakeBSOD/master/screenshots/fakebsod.png">
+  <img alt="Screenshot of the blue screen" src="https://raw.githubusercontent.com/LukasLangrock/FakeBSOD/master/screenshots/fakebsod.png">
 </p>
